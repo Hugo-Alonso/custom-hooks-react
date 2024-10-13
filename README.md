@@ -33,11 +33,12 @@ const CounterComponent = () => {
 
 
 
-## 2. `useFetch`
+### 2. `useFetch`
 
 Hook para realizar peticiones HTTP con manejo de caché, estado de carga y errores.
 
-### Uso:
+#### Uso:
+
 ```javascript
 import { useFetch } from './useFetch';
 
